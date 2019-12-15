@@ -7,7 +7,7 @@ requirements = ["requests>=2"]
 
 setup(
     name="pyedalib",
-    version="0.0.3",
+    version="0.0.4",
     author="Atin Maiti",
     author_email="maiti.atin@gmail.com",
     description="A package easy eda",
