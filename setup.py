@@ -3,11 +3,11 @@ from setuptools import setup, find_packages
 with open("README.md", "r") as readme_file:
     readme = readme_file.read()
 
-requirements = ["ipython>=6", "nbformat>=4", "nbconvert>=5", "requests>=2"]
+requirements = ["requests>=2"]
 
 setup(
     name="pyedalib",
-    version="0.0.1",
+    version="0.0.3",
     author="Atin Maiti",
     author_email="maiti.atin@gmail.com",
     description="A package easy eda",
